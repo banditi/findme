@@ -9,7 +9,6 @@ import json
 
 api_url = 'https://api.vk.com/method/'
 
-# TODO:: landing page
 def index(request):
   obj = {
     'fa': 'search-plus',
